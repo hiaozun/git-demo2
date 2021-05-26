@@ -6,3 +6,4 @@ echo '444444';
 echo 'master test';
 echo 'hot-fix test';
 echo 'push test';
+echo 'push test2';
