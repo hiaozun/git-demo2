@@ -7,3 +7,4 @@ echo 'master test';
 echo 'hot-fix test';
 echo 'push test';
 echo 'push test2';
+echo 'push test3';
