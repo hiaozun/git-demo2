@@ -11,3 +11,4 @@ echo 'push test3';
 echo 'push test4';
 echo 'push test5';
 echo 'push test6';
+echo 'push test7';
